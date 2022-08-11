@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TypeScript/static/css/main.fab6667a.css",
+    "main.js": "/TypeScript/static/js/main.896d516a.js",
+    "static/media/clients-bg.jpg": "/TypeScript/static/media/clients-bg.b1ee1bd5e3e97d3b99ba.jpg",
+    "index.html": "/TypeScript/index.html",
+    "main.fab6667a.css.map": "/TypeScript/static/css/main.fab6667a.css.map",
+    "main.896d516a.js.map": "/TypeScript/static/js/main.896d516a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab6667a.css",
+    "static/js/main.896d516a.js"
+  ]
+}
